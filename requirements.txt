@@ -1,0 +1,6 @@
+azure-functions==1.18.0
+psychrochart==0.10.0
+psychrolib==2.5.0
+matplotlib==3.8.0
+numpy==1.24.3
+azure-storage-blob==12.19.0
